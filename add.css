@@ -1,0 +1,61 @@
+
+
+
+body {
+  background-color: rgb(126, 110, 143);
+}
+
+li {
+  background-color: rgba(189, 217, 217, 0.661);
+}
+
+
+h2 {
+  color: rgb(232, 85, 203);
+  background-color: rgba(35, 33, 34, 0.726);
+}
+
+body {
+  background-color: rgba(48, 47, 45, 0.896);
+}
+
+h1 {
+  background-color: hsl(48, 17%, 94%);
+
+  text-align: center;
+}
+
+p {
+  font-weight: lighter;
+  color: white;
+  line-height: 2;
+  word-spacing: normal;
+}
+
+h1 {
+  font-size: 2rem;
+ 
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+
+ font-size: 2rem;
+font-weight: 50;
+
+.red-text-shadow {
+  text-shadow: hotpink 0 -5px;
+}
+
+
+}
+
+
+
+
+
+ 
+
+
+
+
