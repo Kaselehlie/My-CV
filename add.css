@@ -11,7 +11,7 @@ li {
 
 
 h2 {
-  color: rgb(232, 85, 203);
+  color: #ae0a95fc;
   background-color: rgba(35, 33, 34, 0.726);
 }
 
@@ -49,6 +49,23 @@ font-weight: 50;
 
 
 }
+
+
+
+h2 + p {color: gold;}
+
+p + h3 {color: aqua;}
+
+/* nav a :hover {color: rgb(217, 227, 16);} */
+
+li:first-of-type {color: rgb(0, 9, 0); text-transform: uppercase;}
+
+
+
+
+
+
+
 
 
 
