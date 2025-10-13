@@ -38,9 +38,9 @@ h2 {
   font-size: 2rem;
   font-weight: 50;
 
-  /* red-text-shadow {
-  text-shadow: hotpink 0 -5px;
-} */
+  red-text-shadow {
+    text-shadow: hotpink 0 -5px;
+  }
 }
 
 /* table tr {
@@ -79,11 +79,26 @@ table th {
 }
 
 img {
-  width: 40%;
-  max-width: 300px;
   border-color: rgb(218, 216, 221);
-  border-width: 10px;
-  border-style: double;
+  border-width: 20px;
+  box-shadow: 1px 1px 1px 5px rgb(0, 0, 0, 0.2);
+  object-fit: cover;
+  object-position: auto;
 }
 
-p a{color: rgb(214, 206, 232); font-size: medium;}
+p a {
+  color: rgb(214, 206, 232);
+  font-size: medium;
+}
+
+h1 {
+  margin: 1em;
+  height: 50%;
+  display: flex;
+}
+
+div.image-container {
+  width: 180;
+  height: 40px;
+  position: absolute;
+}
