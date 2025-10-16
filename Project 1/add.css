@@ -12,9 +12,7 @@ body {
   background-color: rgba(48, 47, 45, 0.896);
 }
 
-h1 {
-  /* background-color: hsl(60, 2%, 50%); */
-}
+
 
 p {font-size: larger;
   font-weight: lighter;
@@ -85,9 +83,6 @@ a {
   color: #e7f5e7;
 }
 
- {
-  box-sizing: border-box; /* Uses border-box in all elements. */
-}
 
 body {
   line-height: 2; /* Increases the line height for better readability. */
